@@ -1,4 +1,4 @@
-# Introduction aux Variables et Types de Données en C
+# Introduction aux variables et types de données en C
 
 ## Introduction
 
