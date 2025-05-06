@@ -6,7 +6,7 @@ Ce premier exercice vous permettra de vous familiariser avec les variables et le
 
 ## Exercice
 
-### Partie 1 : Déclaration et Affichage
+### Partie 1 : Déclaration et affichage
 
 Créez un programme C qui :
 
@@ -32,7 +32,7 @@ int main() {
 }
 ```
 
-### Partie 2 : Opérations et Conversions
+### Partie 2 : Opérations et conversions
 
 Modifiez votre programme pour :
 
@@ -40,13 +40,13 @@ Modifiez votre programme pour :
 2. Convertir la `taille` de mètres en centimètres et stocker le résultat dans une nouvelle variable `taille_cm` (de type entier)
 3. Afficher ces nouvelles variables, y compris la valeur originale et la valeur convertie pour la taille
 
-### Partie 3 : Types Supplémentaires
+### Partie 3 : Types supplémentaires
 
 Étendez votre programme en ajoutant :
 
 1. Une variable `est_etudiant` de type `int` utilisée comme booléen (1 pour vrai, 0 pour faux) indiquant si vous êtes étudiant ou non
 
-## Résultat Attendu
+## Résultat attendu
 
 Votre programme doit afficher un résultat similaire à celui-ci (avec vos propres valeurs) :
 
@@ -74,7 +74,7 @@ Statut étudiant : Oui
   printf("Statut étudiant : %s\n", est_etudiant ? "Oui" : "Non");
   ```
 
-## Pour Aller Plus Loin
+## Pour aller plus loin
 
 - Essayez d'ajouter d'autres types de variables comme `unsigned int`, `double` ou `long`
 - Explorez les limites de chaque type (valeurs minimales et maximales)
